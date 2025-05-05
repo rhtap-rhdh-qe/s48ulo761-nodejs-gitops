@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s48ulo761-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s48ulo761-nodejs
